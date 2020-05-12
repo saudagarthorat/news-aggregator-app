@@ -1,4 +1,4 @@
-const apikey="9485e5925b36466aaa9269821cb75b31";
+const apikey="74cf004de7044f8eb88411b5e594a469";
 const article_area=document.getElementById("news-articles");
 let output="";
 function getNews(news)
